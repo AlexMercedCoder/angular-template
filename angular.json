@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angtemplate"
+    }
+  },
+  "defaultProject": "angtemplate",
+  "cli": {
+    "analytics": "c934a8d3-2009-41bc-a4b7-920b797b73dd"
+  }
 }
